@@ -71,4 +71,4 @@ const options = {
 
 const data =  { menu, options }
 
-export default data
+export default data;
